@@ -218,6 +218,6 @@ Place the dataset inside the `data/` directory before running the project.
 
 ---
 
-## Engineer
+## Developer
 
-**Jaanvi Kapoor**
+**~Jaanvi Kapoor**
