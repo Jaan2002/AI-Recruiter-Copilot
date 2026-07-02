@@ -1,7 +1,7 @@
 venv/
 __pycache__/
 .env
-output/
+
 data/candidates.jsonl
 data/*.jsonl
 data/candidate_schema.json
